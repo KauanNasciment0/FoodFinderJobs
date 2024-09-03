@@ -1,0 +1,10 @@
+.idea
+.idea/*
+.vscode
+.vscode/*
+
+db.sqlite
+
+!/**/.gitkeep
+!web/assets/images/empresa/.gitkeep
+web/assets/images/empresa/*
